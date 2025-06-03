@@ -16,21 +16,21 @@
 ---
 
 ### 👨‍💻 Tentang Saya
-- 👨‍💼 Laravel Developer sejak 2022
-- 🏢 Bekerja di **PT. Derma 9 Indonesia**
-- 🔧 Fokus: ERP, Warehouse, Absensi, Reservasi, Antrian, Realtime Notifikasi
-- 🌐 Familiar: Multi-database, REST API, Realtime System (WebSocket)
+- 👨‍💼 Full-time Laravel Developer
+- 🏢 PT. Derma 9 Indonesia (2022–Sekarang)
+- 🔧 Fokus: ERP, Warehouse, Absensi, Reservasi Pasien, Antrian, Notifikasi Real-time
+- 🚀 Suka bekerja dengan **sistem kompleks**, integrasi API, multi-database, dan REST
 - 📫 Email: `richardpratama9898@gmail.com`
-- 🔗 [LinkedIn](https://www.linkedin.com/in/duncan-richard-pratama-b55953236/)
-- ☕ Fun fact: Ngoding sambil ngopi bikin bug jadi solusi ☕
+- 🔗 LinkedIn: [linkedin.com/in/duncan-richard-pratama-b55953236](https://www.linkedin.com/in/duncan-richard-pratama-b55953236/)
+- ☕ Fun fact: Suka debugging saat ngopi ☕
 
 ---
 
 ### 💼 Riwayat Pekerjaan
 
-| Tahun         | Perusahaan             | Posisi                  | Keterangan                                                                                                        |
-|---------------|-------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------------|
-| 2022–Sekarang | PT. Derma 9 Indonesia  | Web Developer (Laravel) | Bangun sistem ERP internal: pabrik, warehouse, absensi, pendaftaran pasien, antrian, sinkronisasi multi sistem.  |
+| Tahun         | Perusahaan             | Posisi                 | Keterangan                                                                                                              |
+|---------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 2022–Sekarang | PT. Derma 9 Indonesia  | Web Developer (Laravel)| ERP internal: manajemen pabrik, warehouse, absensi, reservasi & antrian pasien, dan integrasi multi sistem klinik.     |
 
 ---
 
@@ -44,13 +44,13 @@
 
 ### 📂 Proyek Unggulan
 
-| Proyek                  | Deskripsi                                                                              | Teknologi                   |
-|-------------------------|-----------------------------------------------------------------------------------------|-----------------------------|
-| **ERP Pabrik**          | Sistem produksi, formula, return, batch produksi                                       | Laravel, MySQL, Blade       |
-| **Warehouse System**    | Modul stok bahan baku/kemas, kartu stok, opname                                        | Laravel, Chart.js, AJAX     |
-| **Absensi & HRIS**      | Integrasi fingerprint, kehadiran, shift, reporting                                     | Laravel, DB Relasional      |
-| **Reservasi & Antrian** | Reservasi pasien dengan validasi jam/kuota & cetak QR Code OTP                        | Laravel, DomPDF, Fonnte API |
-| **Multi DB Sinkronisasi** | Integrasi HRIS, Produksi, dan Finance antar database & subdomain                     | Laravel, WebSocket, MySQL   |
+| Proyek                  | Deskripsi                                                                                  | Teknologi                    |
+|-------------------------|---------------------------------------------------------------------------------------------|------------------------------|
+| **ERP Pabrik**          | Sistem produksi, formulasi, return, batch produksi                                         | Laravel, Blade, MySQL        |
+| **Warehouse System**    | Penerimaan, pengeluaran, opname, kartu stok                                                | Laravel, Chart.js, AJAX      |
+| **Absensi & HRIS**      | Sistem fingerprint, laporan kehadiran, integrasi multi departemen                         | Laravel, DB relasional       |
+| **Reservasi & Antrian** | Form pasien, OTP WhatsApp, QR Code, kuota otomatis                                         | Laravel, DomPDF, Fonnte API  |
+| **Integrasi Multi DB**  | HRIS + Klinik + Finance dalam satu Laravel project                                         | Laravel, WebSocket, MySQL    |
 
 ---
 
@@ -66,14 +66,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duncanrichard&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duncanrichard/duncanrichard/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
